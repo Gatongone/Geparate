@@ -1,2 +1,2 @@
 # Geparate
-The decoupling framework for Unity3D
+A lonely framework for a lonely man.

@@ -1,0 +1,13 @@
+{
+  "name": "com.gatongone.geparate",
+  "version": "0.1.0",
+  "license": "MIT",
+  "displayName": "Geparate",
+  "description": "A lonely framework for a lonely man.",
+  "author": {
+    "name": "Gatongone",
+    "email": "gatongone@gmail.com",
+    "url": "https://www.gatongone.site"
+  },
+  "unity": "2020.3"
+}
