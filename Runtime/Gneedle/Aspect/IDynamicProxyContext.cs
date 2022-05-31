@@ -1,17 +1,12 @@
-namespace Geparate.Gneedle
+using JetBrains.Annotations;
+
+namespace Geparate.Gneedle.Aspect
 {
-    public interface IDynamicProxyContext<ResultType> : IAopContext<IDynamicProxyContext<ResultType>>
+    public interface IDynamicProxyContext : IAspectAdvice<IDynamicProxyContext>
     {
         /// <summary>
-        /// Excute method and return method's return-value
+        /// Execute method and begin advice transactions
         /// </summary>
-        ResultType Result();
-    }
-    public interface IDynamicProxyContext : IAopContext<IDynamicProxyContext>
-    {
-        /// <summary>
-        /// Excute method
-        /// </summary>
-        void Done();
+        [CanBeNull] object Invoke();
     }
 }

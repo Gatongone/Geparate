@@ -9,5 +9,9 @@
     "email": "gatongone@gmail.com",
     "url": "https://www.gatongone.site"
   },
-  "unity": "2020.3"
+  "unity": "2020.3",
+  "type": "library",
+  "dependencies": {
+    "com.unity.nuget.mono-cecil": "1.11.4"
+  }
 }

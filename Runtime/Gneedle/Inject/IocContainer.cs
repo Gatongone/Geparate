@@ -1,4 +1,4 @@
-namespace Geparate.Gneedle
+namespace Geparate.Gneedle.Inject
 {
     public class IocContainer
     {

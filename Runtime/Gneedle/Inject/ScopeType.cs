@@ -1,4 +1,4 @@
-namespace Geparate.Gneedle
+namespace Geparate.Gneedle.Inject
 {
     public enum ScopeType
     {
