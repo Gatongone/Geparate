@@ -1,6 +1,6 @@
 ﻿using System.Reflection;
 
-namespace Geparate.Gneedle.Aspect
+namespace Geparate.Gneedle
 {
     /// <summary>
     /// IAdviceStrategy is a custom adviser .It provides a custom aspect advice method to weaves into target.

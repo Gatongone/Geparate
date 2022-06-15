@@ -1,4 +1,4 @@
-namespace Geparate.Gneedle.Inject
+namespace Geparate.Gneedle
 {
     public class BindingDefinition
     {

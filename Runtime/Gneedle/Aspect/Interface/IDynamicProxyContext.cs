@@ -1,6 +1,6 @@
 using JetBrains.Annotations;
 
-namespace Geparate.Gneedle.Aspect
+namespace Geparate.Gneedle
 {
     public interface IDynamicProxyContext : IAspectAdvice<IDynamicProxyContext>
     {

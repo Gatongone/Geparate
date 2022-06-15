@@ -1,6 +1,6 @@
 ﻿using System.Reflection;
 
-namespace Geparate.Gneedle.Aspect
+namespace Geparate.Gneedle
 {
     public readonly struct FieldContext<T>
     {

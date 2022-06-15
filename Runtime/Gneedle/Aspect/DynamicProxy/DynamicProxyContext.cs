@@ -1,7 +1,7 @@
 using System;
 using System.Reflection;
 
-namespace Geparate.Gneedle.Aspect
+namespace Geparate.Gneedle
 {
     public struct DynamicProxyContext : IDynamicProxyContext
     {

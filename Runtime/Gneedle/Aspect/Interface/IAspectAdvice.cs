@@ -1,6 +1,6 @@
 using System;
 
-namespace Geparate.Gneedle.Aspect
+namespace Geparate.Gneedle
 {
     /// <summary>
     /// IAspectAdvice describes the advices on the join point method,

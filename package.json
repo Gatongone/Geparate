@@ -11,6 +11,12 @@
   },
   "unity": "2020.3",
   "type": "library",
+  "keywords": [
+    "ECS",
+    "AOP",
+    "IOC",
+    "DDD"
+  ],
   "dependencies": {
     "com.unity.nuget.mono-cecil": "1.10.2"
   }
